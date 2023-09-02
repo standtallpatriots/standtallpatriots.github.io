@@ -1,7 +1,7 @@
 +++
 author = "Grant Weldon"
 title = "Example new post"
-date = 9-2-2023
+date = '9-2-2023'
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
     "markdown",
